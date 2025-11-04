@@ -81,6 +81,19 @@
             "stopAtEntry": false
         },
 
+                {
+            "name": "Week 01: C# Learning",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build-week01-Exercise5",
+            "program": "${workspaceFolder}/week01/Learning/bin/Debug/net8.0/Learning.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/week01/Learning",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "stopAtEntry": false
+        },
+
         {
             "name": "Week 02: Resumes",
             "type": "coreclr",
