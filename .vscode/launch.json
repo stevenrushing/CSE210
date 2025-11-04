@@ -85,7 +85,7 @@
             "name": "Week 01: C# Learning",
             "type": "coreclr",
             "request": "launch",
-            "preLaunchTask": "build-week01-Exercise5",
+            "preLaunchTask": "build-week01-Learning",
             "program": "${workspaceFolder}/week01/Learning/bin/Debug/net8.0/Learning.dll",
             "args": [],
             "cwd": "${workspaceFolder}/week01/Learning",
